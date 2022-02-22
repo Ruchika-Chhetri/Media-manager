@@ -1,10 +1,10 @@
 {
-    "name": "ridhima/mediamanager",
+    "name": "chhetri/mediamanager",
     "license": "MIT",
     "authors": [
         {
-            "name": "Pushkar Rana",
-            "email": "pushkar_rana2005@yahoo.co.in"
+            "name": "Ruchika Chhetri",
+            "email": ""
         }
     ],
     "require": {
